@@ -1,0 +1,20 @@
+.container {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    flex-direction: column;
+
+
+}
+
+.result {
+
+    font-size: 20px;
+
+    margin-bottom: 30px;
+
+}
